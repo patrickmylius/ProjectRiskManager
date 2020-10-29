@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3429957-fc40-48f5-a27b-fcb78b5e4603" name="Default Changelist" comment="" />
+    <list default="true" id="b3429957-fc40-48f5-a27b-fcb78b5e4603" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Risk_Manager/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,24 +18,34 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1jZ3mmrtnVF60ytquHcxO7s0c0y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gradle Intro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/UML/Use_cases" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15527344" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Use_cases" />
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\UC_diagrams" />
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\System_sequence_diagrams" />
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\System_diagrams" />
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Domain_models" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML" />
       <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Behavioral_diagrams" />
@@ -72,18 +85,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603997948644</updated>
-      <workItem from="1603997949707" duration="823000" />
+      <workItem from="1603997949707" duration="1854000" />
     </task>
+    <task id="LOCAL-00001" summary="Added files, for UML, containing readme.md">
+      <created>1603999087994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603999087995</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added files, for UML, containing readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files, for UML, containing readme.md" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="#Project_Structure" timestamp="1603998185321">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1604002355251">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1603998185321" />
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604002355251" />
+    <state x="566" y="97" key="CommitChangelistDialog2" timestamp="1603999087147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="566" y="97" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1603999087147" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1603998890455">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1603998890455" />
+    <state x="748" y="399" key="Github.ShareDialog" timestamp="1603998808401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="399" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1603998808401" />
+    <state x="689" y="217" key="Github.UntrackedFilesDialog" timestamp="1603998845758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1603998845758" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1603999089425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1603999089425" />
     <state x="597" y="140" key="new project wizard" timestamp="1603997994138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
