@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3429957-fc40-48f5-a27b-fcb78b5e4603" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UML/Use_cases/UC_01/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UML/Use_cases/UC_02/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UML/Use_cases/UC_04/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UML/Use_cases/UC_05/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UML/Use_cases/UC_03/UC3_casual_BeregnPrioritet.docx" beforeDir="false" afterPath="$PROJECT_DIR$/UML/Use_cases/UC_03/UC3_casual_BeregnPrioritet.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,7 @@
       <workItem from="1604564552653" duration="427000" />
       <workItem from="1604601034633" duration="777000" />
       <workItem from="1604649689129" duration="1199000" />
-      <workItem from="1604853734081" duration="4839000" />
+      <workItem from="1604853734081" duration="6132000" />
     </task>
     <task id="LOCAL-00001" summary="Added files, for UML, containing readme.md">
       <created>1603999087994</created>
@@ -173,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604866636302</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added Folders.&#10;UC_01&#10;UC_02&#10;UC_03&#10;UC_04&#10;UC_05&#10;&#10;&#10;Added to UC_03: Casual Use Case description for Beregn Prioritet">
+      <created>1604866789267</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604866789267</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Folders.&#10;UC_01&#10;UC_02&#10;UC_03&#10;UC_04&#10;UC_05&#10;&#10;&#10;Added to UC_03: Casual Use Case description for Beregn Prioritet">
+      <created>1604866836634</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604866836634</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,10 +205,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604002355251" />
-    <state x="566" y="26" key="CommitChangelistDialog2" timestamp="1604866635566">
+    <state x="566" y="8" key="CommitChangelistDialog2" timestamp="1604866835914">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="566" y="26" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604866635566" />
+    <state x="566" y="8" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604866835914" />
     <state x="184" y="86" key="DiffContextDialog" timestamp="1603998890455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -230,15 +242,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604002480647" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604866639470">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1604866837779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604866639470" />
-    <state x="777" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604866516521">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604866837779" />
+    <state x="777" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604866839595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1143" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@-1920.0.1920.1080" timestamp="1604564555821" />
-    <state x="777" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604866516521" />
+    <state x="777" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604866839595" />
     <state x="597" y="140" key="new project wizard" timestamp="1603997994138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
