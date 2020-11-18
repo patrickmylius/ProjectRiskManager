@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3429957-fc40-48f5-a27b-fcb78b5e4603" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10-11-2020_12_03_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10-11-2020_12_03__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2020_09_02_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2020_09_02__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2020_11_30_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2020_11_30__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2020_12_00_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2020_12_00__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML/Use_cases/UC_01/Opret_risikoanalyse_brief.docx" beforeDir="false" afterPath="$PROJECT_DIR$/UML/Use_cases/UC_01/Opret_risikoanalyse_brief.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML/Use_cases/UC_02/Rediger_risikoanalyse_brief.docx" beforeDir="false" afterPath="$PROJECT_DIR$/UML/Use_cases/UC_02/Rediger_risikoanalyse_brief.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +47,13 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\Unsolved_docs\UC_related" />
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\Unsolved_docs" />
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Use_cases\Practise_UCs" />
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Use_cases\UC_03" />
+      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\Prototype_XD" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Use_cases\UC_03" />
       <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Use_cases\UC_01" />
@@ -48,31 +61,11 @@
       <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Use_cases\UC_04" />
       <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Use_cases" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\Prototype_XD" />
-      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\Use_cases" />
-      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\Unsolved_Docs" />
-      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML\UC_diagrams" />
-      <recent name="C:\Users\patri\Desktop\ProjectRiskManager\UML" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Risk_Manager" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,7 +95,9 @@
       <workItem from="1605020629000" duration="25000" />
       <workItem from="1605082652185" duration="1042000" />
       <workItem from="1605162618276" duration="3211000" />
-      <workItem from="1605248889382" duration="1265000" />
+      <workItem from="1605248889382" duration="2140000" />
+      <workItem from="1605681025046" duration="48000" />
+      <workItem from="1605726903030" duration="1910000" />
     </task>
     <task id="LOCAL-00001" summary="Added files, for UML, containing readme.md">
       <created>1603999087994</created>
@@ -244,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605184001375</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Sorted map locations, moved old use cases and old uc diagrams to UC_related beneath Unsolved_docs&#10;&#10;Added UC_02 Rediger_risikoanalyse_brief.docx&#10;Added UC_03 Eksporter_risikoanalyse">
+      <created>1605250752417</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605250752417</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,32 +263,34 @@
     <MESSAGE value="Added Use_case pp" />
     <MESSAGE value="Added RiskManager_01.XD prototype" />
     <MESSAGE value="Added RiskManager_01.XD prototype to Unsolved_docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added RiskManager_01.XD prototype to Unsolved_docs" />
+    <MESSAGE value="Sorted map locations, moved old use cases and old uc diagrams to UC_related beneath Unsolved_docs&#10;&#10;Added UC_02 Rediger_risikoanalyse_brief.docx&#10;Added UC_03 Eksporter_risikoanalyse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorted map locations, moved old use cases and old uc diagrams to UC_related beneath Unsolved_docs&#10;&#10;Added UC_02 Rediger_risikoanalyse_brief.docx&#10;Added UC_03 Eksporter_risikoanalyse" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1604002355251">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604002355251" />
-    <state x="629" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605183749709">
+    <state x="629" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605726918975">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="629" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1605183749709" />
-    <state x="566" y="8" key="CommitChangelistDialog2" timestamp="1605184000584">
+    <state x="629" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1605726918975" />
+    <state x="566" y="8" key="CommitChangelistDialog2" timestamp="1605250751500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1354" y="8" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@-1920.0.1920.1080" timestamp="1604871972679" />
     <state x="566" y="8" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1605184000584" />
+    <state x="566" y="8" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1605250751500" />
     <state x="-1736" y="89" key="DiffContextDialog" timestamp="1604871966415">
       <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="-1736" y="89" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@-1920.0.1920.1080" timestamp="1604871966415" />
     <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1603998890455" />
-    <state x="-1180" y="285" key="FileChooserDialogImpl" timestamp="1605083101307">
-      <screen x="-1920" y="0" width="1920" height="1080" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1605681070454">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1180" y="285" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605083101307" />
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1605001281907" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1605681070454" />
     <state x="748" y="399" key="Github.ShareDialog" timestamp="1603998808401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -311,16 +315,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1604002480647" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605184013131">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605250754138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1368" y="262" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@-1920.0.1920.1080" timestamp="1604871975833" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1605184013131" />
-    <state x="777" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605248891884">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1605250754138" />
+    <state x="777" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605726905362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1143" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@-1920.0.1920.1080" timestamp="1605083093862" />
-    <state x="777" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1605183845589" />
+    <state x="777" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1605726905362" />
     <state x="777" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1605248891884" />
     <state x="597" y="140" key="new project wizard" timestamp="1603997994138">
       <screen x="0" y="0" width="1920" height="1040" />
